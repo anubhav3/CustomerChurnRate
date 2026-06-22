@@ -1,7 +1,7 @@
 """Interactive dashboard for churn prediction outputs.
 
 Run:
-    streamlit run dashboard.py
+    streamlit run dashboard_performance.py
 """
 
 from __future__ import annotations

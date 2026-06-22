@@ -1,0 +1,14 @@
+.git/
+.venv/
+venv/
+env/
+CustomerChurnRate/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+data/
+eda_customer_churn.ipynb
+notes
